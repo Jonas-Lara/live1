@@ -1,11 +1,13 @@
 
 TITLE: 
-Resto - 100% Fully Responsive HTML5 Bootstrap 4 Template for Restaurants
+Homestate - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+DESIGNED & DEVELOPED by FREEHTML5.co
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -16,21 +18,41 @@ http://getbootstrap.com/
 jQuery
 http://jquery.com/
 
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-IsotopeSelect2
-https://select2.org
+Modernizr
+http://modernizr.com/
 
-Featherlight
-https://noelboss.github.io/featherlight/
+Google Fonts
+https://www.google.com/fonts/
 
-Stellar
-http://markdalgleish.com/projects/stellar.js/
+Google Maps
+https://maps.google.com
 
-Tempus Dominus
-https://tempusdominus.github.io/bootstrap-4/
+Icomoon
+https://icomoon.io/app/
 
-Demo Images:
-http://unsplash.com
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint & Sticky
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Superfish Menu
+http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+
+hoverIntent
+https://github.com/briancherne/jquery-hoverIntent
+
+classie
+https://github.com/ded/bonzo
+
+selectFx
+http://www.codrops.com
+
+bootstrap-datepicker
+https://github.com/eternicode/bootstrap-datepicker
